@@ -6,3 +6,5 @@
 5th line
 
 git integration line
+
+git checking comments in pull request
